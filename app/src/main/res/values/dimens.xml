@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="default_stroke_width">5dp</dimen>
+</resources>
